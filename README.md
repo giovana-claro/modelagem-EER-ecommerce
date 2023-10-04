@@ -10,6 +10,8 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ![img_modelagem](IMG_7728.png)
 
+![EntidadeRelacionamento](modelagem_ecommerce.png)
+
 Quero explicar agora minhas decisões de modelagem para cada um dos tópicos apresentados.
 
 Separei a entidade Cliente fazendo uma especificação. Ambos pertencem ao mesmo conjunto (clientes), mas possuem características
