@@ -10,7 +10,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ![img_modelagem](IMG_7728.png)
 
-![EntidadeRelacionamento](modelagem_ecommerce.png)
+![image](https://github.com/giovana-claro/modelagem-EER-ecommerce/assets/139156735/a20c2e26-60bc-493a-a463-4ad2b9055a4a)
 
 Quero explicar agora minhas decisões de modelagem para cada um dos tópicos apresentados.
 
